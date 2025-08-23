@@ -1,0 +1,17 @@
+{
+  "name": "api-rest-node-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Rafaelgbi/api_cidades.git",
+  "author": "Rafael",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.2"
+  }
+}
