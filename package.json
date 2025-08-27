@@ -6,7 +6,11 @@
   "author": "Rafael",
   "license": "MIT",
   "private": null,
+  "scripts": {
+    "start": "yarn ts-node-dev ./src/index.ts"
+  },
   "dependencies": {
+    "dotenv": "^17.2.1",
     "express": "^5.1.0"
   },
   "devDependencies": {
